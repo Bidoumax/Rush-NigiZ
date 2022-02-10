@@ -1,0 +1,5 @@
+name: Rush
+version: 1.0
+author: Bidoumax
+api-version: 1.18
+main: fr.bidoumax.rush.MainRush
